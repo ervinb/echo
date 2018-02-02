@@ -6,7 +6,7 @@ gem "carrierwave"
 gem "carrierwave-mongoid", require: "carrierwave/mongoid"
 gem "decent_exposure"
 
-gem "mongoid", "~> 5.0.0.beta"
+gem "mongoid", "~> 5.2.1"
 
 gem 'mimetype-fu', require: 'mimetype_fu'
 gem 'responders'
